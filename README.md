@@ -46,9 +46,9 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by GitHub star count (descending).
+Sorted by GitHub Stars_Count (descending).
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** 💬 | **Open-source customer engagement platform.** Omnichannel support (Web, WhatsApp, Instagram, Messenger, Telegram, SMS), AI agent capabilities, help center, and live chat. Built with Ruby on Rails & Vue. | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) |
 | **[Odoo Helpdesk](https://github.com/odoo/odoo)** 🏢 | **Open-source ERP suite including Helpdesk & Customer Support.** Comprehensive ticketing, SLA management, and customer portal integrated with full business suite. Python/JavaScript. | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
