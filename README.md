@@ -41,6 +41,7 @@
 | **[Kustomer](https://www.kustomer.com/pricing/)** 👥 | Omnichannel customer service platform built around single customer views and AI automation. | **$89/user/month** (Enterprise tier) | **14-day trial upon request** (No perpetual free tier) | **~$250M valuation** (Divested from Meta) |
 | **[Help Scout](https://www.helpscout.com/pricing/)** 📩 | Simple, human-friendly customer support platform with shared inboxes and Docs knowledge base. | **$20/user/month** (Standard) | **14-day free trial** (No perpetual free tier) | **~$100M+ valuation** (Private) |
 | **[Gorgias](https://www.gorgias.com/pricing)** 🛍️ | E-commerce dedicated helpdesk integrated deeply with Shopify, BigCommerce, and Magento. | **$50/month** (Basic - 50 billable tickets) | **7-day free trial** (No perpetual free tier) | **~$100M+ valuation** (Private) |
+| **[Genaya](https://genaya.com/)** 🧠 | Operations platform for service businesses with CRM, business numbers, calling and texting, call recording, and an AI phone receptionist that answers every call. | **$99/month** (Individual, 1 user) | **14-day free trial** (Card required, no perpetual free tier) | **Early-stage, private** |
 
 ---
 
